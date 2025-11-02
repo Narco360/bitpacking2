@@ -1,5 +1,5 @@
 
-# BitPacking Project (Student-style submission)
+# BitPacking Project
 Author: Nathan Gallard
 Date: 2025-11-02
 
