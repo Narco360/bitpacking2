@@ -1,7 +1,5 @@
 
 # BitPacking Project
-Author: Nathan Gallard
-Date: 2025-11-02
 
 ## Project description
 This project implements bit-packing compression methods for integer arrays:
